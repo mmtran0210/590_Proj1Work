@@ -1,0 +1,7 @@
+C:\Users\mimin\Desktop\590_webappinPortal\BestBikeApp\pub\BestBikeApp.exe
+C:\Users\mimin\Desktop\590_webappinPortal\BestBikeApp\pub\appsettings.Development.json
+C:\Users\mimin\Desktop\590_webappinPortal\BestBikeApp\pub\appsettings.json
+C:\Users\mimin\Desktop\590_webappinPortal\BestBikeApp\pub\BestBikeApp.dll
+C:\Users\mimin\Desktop\590_webappinPortal\BestBikeApp\pub\BestBikeApp.deps.json
+C:\Users\mimin\Desktop\590_webappinPortal\BestBikeApp\pub\BestBikeApp.runtimeconfig.json
+C:\Users\mimin\Desktop\590_webappinPortal\BestBikeApp\pub\BestBikeApp.pdb
